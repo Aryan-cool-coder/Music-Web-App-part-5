@@ -1,0 +1,29 @@
+body {
+    background-size: cover;
+}
+
+
+canvas {
+    position: absolute;
+    top: 500px;
+    left: 750px;
+    border: groove cyan 5px;
+    box-shadow: 5px 5px 10px;
+    background-color: black;
+    border-radius: 20px;
+}
+
+#header{
+ width: 100%;
+ font-size: 25px;
+ margin-top: 0px;
+}
+
+button {
+    font-size: 1px;
+    width: 35%;
+}
+#note {
+    font-size: 20px;
+
+}
